@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should test AppHeader component 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#FFF",
+      "flexDirection": "row",
+      "height": 60,
+      "justifyContent": "center",
+      "padding": 16,
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "marginRight": "auto",
+        "padding": 8,
+      }
+    }
+  >
+    <RNGestureHandlerButton
+      collapsable={false}
+      onGestureEvent={[Function]}
+      onGestureHandlerEvent={[Function]}
+      onGestureHandlerStateChange={[Function]}
+      onHandlerStateChange={[Function]}
+      rippleColor={0}
+    >
+      <View
+        accessible={true}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <Text
+          allowFontScaling={false}
+          style={
+            Array [
+              Object {
+                "color": undefined,
+                "fontSize": 24,
+              },
+              Object {
+                "color": "#ffffff",
+              },
+              Object {
+                "fontFamily": "Material Icons",
+                "fontStyle": "normal",
+                "fontWeight": "normal",
+              },
+              Object {},
+            ]
+          }
+        >
+          
+        </Text>
+      </View>
+    </RNGestureHandlerButton>
+  </View>
+  <Text
+    style={
+      Object {
+        "fontSize": 22,
+        "fontWeight": "700",
+      }
+    }
+  >
+    Title_test1
+  </Text>
+  <View
+    style={
+      Array [
+        Object {
+          "marginLeft": "auto",
+          "padding": 8,
+        },
+        Object {},
+      ]
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 24,
+          },
+          Object {
+            "color": "#ffffff",
+          },
+          Object {
+            "fontFamily": "Material Icons",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {},
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+</View>
+`;

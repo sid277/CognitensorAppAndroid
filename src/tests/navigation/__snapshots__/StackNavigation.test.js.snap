@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should test AccountStackNavigator component 1`] = `ShallowWrapper {}`;
+
+exports[`should test DashboardStackNavigator component 1`] = `ShallowWrapper {}`;
+
+exports[`should test NotificationStackNavigator component 1`] = `ShallowWrapper {}`;

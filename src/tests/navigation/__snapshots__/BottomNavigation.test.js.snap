@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should test MainBottomNavigator component 1`] = `
+<BottomTabNavigator
+  screenOptions={[Function]}
+>
+  <Screen
+    component={[Function]}
+    name="Home"
+  />
+  <Screen
+    component={[Function]}
+    name="Account"
+  />
+  <Screen
+    component={[Function]}
+    name="Notifications"
+  />
+</BottomTabNavigator>
+`;
